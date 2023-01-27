@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **E-Seva Service Project**
 
-- 🌱 I’m currently learning **Rasa Framework for Conversational AI**
+- 🌱 I’m currently learning **Rasa for Conversational AI**
 
 - 💬 Ask me about **Machine Learning, SpringBoot, Angular**
 
