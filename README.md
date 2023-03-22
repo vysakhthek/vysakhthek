@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **E-Seva Service Project**
 
-- 🌱 I’m currently learning **Rasa for Conversational AI**
+- 🌱 I’m currently learning **RASA for Conversational AI**
 
-- 💬 Ask me about **Machine Learning, SpringBoot, Angular**
+- 💬 Ask me about **Machine Learning, Data Science, Python**
 
 - 📫 How to reach me **vysakh.thek@gmail.com**
 
