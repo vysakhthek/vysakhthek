@@ -22,9 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vysakh-thekkath" target="blank"><img align="center" src="https://raw.githubusercontent.com/vysakhthek/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vysakh-thekkath" height="30" width="40" /></a>
-<a href="https://twitter.com/iamshnoo" target="blank">
-    <img alt="twitter followers" title="Follow me on Twitter"src="https://img.shields.io/twitter/follow/vysakhthek?logo=twitter&style=for-the-badge" alt="vysakhthek" /></a>
+<a href="https://linkedin.com/in/vysakh-thekkath" target="blank"><img align="center" src="img/linked-in-alt.svg" alt="vysakh-thekkath" height="30" width="40" /></a>
+<a href="https://twitter.com/vysakhthek" target="blank"><img align="center" src="img/twitter.svg" alt="iamshnoo" height="30" width="40" /></a>
     
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
