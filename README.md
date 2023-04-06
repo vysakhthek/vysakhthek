@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Vysakh T</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Kerala, India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Kerala, India. I love NLP, Software Development & Exploratory Data Analysis.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
@@ -12,21 +12,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-Seva Service Project**
+- 🔭 I’m currently working on **Conversatonal AI Assistant**
 
-- 🌱 I’m currently learning **RASA for Conversational AI**
+- 🌱 I’m currently learning **Computer Vision and Deep learning.**
 
-- 💬 Ask me about **Machine Learning, Data Science, Python**
+- 🤝 I’m looking for help with **Deep learning in general!**
 
 - 📫 How to reach me **vysakh.thek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vysakh-thekkath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vysakh-thekkath" height="30" width="40" /></a>
-  <a href="https://kaggle.com/vysakhthek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vysakhthek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vysakhthek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vysakhthek" height="30" width="40" /></a>
-</p>
-
+<a href="https://linkedin.com/in/vysakh-thekkath" target="blank"><img align="center" src="https://raw.githubusercontent.com/vysakhthek/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vysakh-thekkath" height="30" width="40" /></a>
+<a href="https://twitter.com/iamshnoo" target="blank">
+    <img alt="twitter followers" title="Follow me on Twitter"src="https://img.shields.io/twitter/follow/vysakhthek?logo=twitter&style=for-the-badge" alt="vysakhthek" /></a>
+    
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
