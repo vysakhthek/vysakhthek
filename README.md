@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vysakhthek">
-    <img src="https://github.com/vysakhthek/vysakhthek/AI_brain.gif">
+    <img src="https://github.com/vysakhthek/vysakhthek/blob/main/AI_brain.gif">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Vysakh</h1>
