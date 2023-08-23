@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Conversatonal AI Assistant.**
 
-- 🌱 I’m currently learning **Computer vision and Deep learning.**
+- 🌱 I’m currently learning about **Generative AI and LLM**
 
 - 🤝 I’m looking for help with **Deep learning in general!**
 
