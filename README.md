@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Vysakh</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Kerala, India. I love NLP, Deep Learning & Exploratory Data Analysis.</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India. I love Exploring NLP & Deep Learning.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/vysakhthek/vysakhthek/blob/main/coding.gif">
 
